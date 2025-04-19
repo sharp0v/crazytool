@@ -6,7 +6,7 @@
 
 ---
 
-*CrazyTOOL FREE** is a tool written in Python/GO that offers the following features:
+*CrazyTOOL FREE* is a tool written in Python/GO that offers the following features:
 
 - **Search** for information on queries using the API.
 - **DoS attack** with parallel query execution.

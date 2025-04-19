@@ -21,7 +21,6 @@ Crazy TOOL FREE includes 2 main modes of operation:
 
 2. **DoS attack (DoS)**:
 - In parallel, send requests to the specified URL for the attack.
-   - Specify the number of requests to increase the load.
 
 ## 📄 License
 

@@ -17,7 +17,7 @@ Crazy TOOL FREE includes 2 main modes of operation:
 
 1. **Search (SEARCH)**:
 - Perform search by query via ProxyNova API and Intelex.
-   - Get information about.
+   - Get information about number.
 
 2. **DoS attack (DoS)**:
 - In parallel, send requests to the specified URL for the attack.
